@@ -105,5 +105,25 @@ Após a instalação completa, será possível acessar o painel de controle do w
 
 ## Plugins
 
+Vá até a aba de plugins e desinstale os dois que apareceram, após isso instale os seguintes plugins
+
+<p align="center">
+    <img src="./images/plugins.png" width="100%" height="100%">
+</p>
+
+
+*OBS: Ative eles, pois serão necessários*
 
 ## Temas
+
+Vá até a aba de aparência e entre na sessão temas, nela clique em adicionar tema e procure pelo tema <code>Astra</code> e instale. 
+
+Depois procure na internet pelo astra child generator e baixe-o ([astra child generator](https://wpastra.com/child-theme-generator/)).
+
+Volte até os temas do wordpress e adicione o tema que baixou
+
+<p align="center">
+    <img src="./images/astraChildGenerator.png" width="100%" height="100%">
+</p>
+
+Após isso ative o tema e pronto, o site está pronto para ser desenvolvido
