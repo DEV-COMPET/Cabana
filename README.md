@@ -4,6 +4,8 @@
 
 [![Vídeo de configuração do WordPress](./images/capaVideo.png)](https://youtu.be/6mRnwGZgB4Y)
 
+## Manutenção do site (Netlify)
+[Manutenção Site](https://youtu.be/KXg5MePZKQE) 
 
 ## Links importantes
 
